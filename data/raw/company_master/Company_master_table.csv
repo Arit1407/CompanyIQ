@@ -1,0 +1,111 @@
+company_id,ticker,company_name,sector,subsector,market_cap_category,country
+CMP001,MSFT,Microsoft Corporation,Technology,Cloud Computing,Large Cap,USA
+CMP002,ORCL,Oracle Corporation,Technology,Software,Large Cap,USA
+CMP003,IBM,IBM Corporation,Technology,IT Services,Large Cap,USA
+CMP004,CRM,Salesforce Inc.,Technology,Software,Large Cap,USA
+CMP005,ADBE,Adobe Inc.,Technology,Software,Large Cap,USA
+CMP006,NOW,ServiceNow Inc.,Technology,Software,Large Cap,USA
+CMP007,CSCO,Cisco Systems Inc.,Technology,Cybersecurity,Large Cap,USA
+CMP008,ACN,Accenture plc,Technology,IT Services,Large Cap,USA
+CMP009,PANW,Palo Alto Networks Inc.,Technology,Cybersecurity,Large Cap,USA
+CMP010,CRWD,CrowdStrike Holdings Inc.,Technology,Cybersecurity,Large Cap,USA
+CMP011,FTNT,Fortinet Inc.,Technology,Cybersecurity,Large Cap,USA
+CMP012,SNPS,Synopsys Inc.,Technology,Software,Large Cap,USA
+CMP013,CDNS,Cadence Design Systems Inc.,Technology,Software,Large Cap,USA
+CMP014,ADSK,Autodesk Inc.,Technology,Software,Large Cap,USA
+CMP015,INTU,Intuit Inc.,Technology,Software,Large Cap,USA
+CMP016,WDAY,Workday Inc.,Technology,Software,Large Cap,USA
+CMP017,SNOW,Snowflake Inc.,Technology,Cloud Computing,Large Cap,USA
+CMP018,PLTR,Palantir Technologies Inc.,Technology,Emerging Tech,Large Cap,USA
+CMP019,ZS,Zscaler Inc.,Technology,Cybersecurity,Large Cap,USA
+CMP020,NET,Cloudflare Inc.,Technology,Cloud Computing,Large Cap,USA
+CMP021,EPAM,EPAM Systems Inc.,Technology,IT Services,Large Cap,USA
+CMP022,IT,Gartner Inc.,Technology,IT Services,Large Cap,USA
+CMP023,EQIX,Equinix Inc.,Technology,Cloud Computing,Large Cap,USA
+CMP024,FI,Fiserv Inc.,Technology,IT Services,Large Cap,USA
+CMP025,DDOG,Datadog Inc.,Technology,Cloud Computing,Mid Cap,USA
+CMP026,HUBS,HubSpot Inc.,Technology,Software,Mid Cap,USA
+CMP027,MDB,MongoDB Inc.,Technology,Data & Analytics,Mid Cap,USA
+CMP028,ZM,Zoom Video Communications Inc.,Technology,Software,Mid Cap,USA
+CMP029,TWLO,Twilio Inc.,Technology,Software,Mid Cap,USA
+CMP030,TYL,Tyler Technologies Inc.,Technology,Software,Mid Cap,USA
+CMP031,AKAM,Akamai Technologies Inc.,Technology,Cloud Computing,Mid Cap,USA
+CMP032,PATH,UiPath Inc.,Technology,Emerging Tech,Mid Cap,USA
+CMP033,PD,PagerDuty Inc.,Technology,Software,Small Cap,USA
+CMP034,DOMO,Domo Inc.,Technology,Data & Analytics,Small Cap,USA
+CMP035,AI,C3.ai Inc.,Technology,Emerging Tech,Small Cap,USA
+CMP036,BRZE,Braze Inc.,Technology,Software,Small Cap,USA
+CMP037,BL,BlackLine Inc.,Technology,Software,Small Cap,USA
+CMP038,QLYS,Qualys Inc.,Technology,Cybersecurity,Small Cap,USA
+CMP039,RPD,Rapid7 Inc.,Technology,Cybersecurity,Small Cap,USA
+CMP040,CFLT,Confluent Inc.,Technology,Data & Analytics,Small Cap,USA
+CMP041,TCS,Tata Consultancy Services Limited,Technology,IT Services,Large Cap,India
+CMP042,INFY,Infosys Limited,Technology,IT Services,Large Cap,India
+CMP043,WIPRO,Wipro Limited,Technology,IT Services,Large Cap,India
+CMP044,HCLTECH,HCLTech Limited,Technology,IT Services,Large Cap,India
+CMP045,TECHM,Tech Mahindra Limited,Technology,IT Services,Large Cap,India
+CMP046,LTIM,LTIMindtree Limited,Technology,IT Services,Large Cap,India
+CMP047,PERSISTENT,Persistent Systems Limited,Technology,IT Services,Large Cap,India
+CMP048,COFORGE,Coforge Limited,Technology,IT Services,Large Cap,India
+CMP049,MPHASIS,Mphasis Limited,Technology,IT Services,Large Cap,India
+CMP050,OFSS,Oracle Financial Services Software Limited,Technology,Software,Large Cap,India
+CMP051,LTTS,L&T Technology Services Limited,Technology,IT Services,Large Cap,India
+CMP052,HEXAWARE,Hexaware Technologies Limited,Technology,IT Services,Large Cap,India
+CMP053,ZENSARTECH,Zensar Technologies Limited,Technology,IT Services,Mid Cap,India
+CMP054,KPITTECH,KPIT Technologies Limited,Technology,IT Services,Mid Cap,India
+CMP055,TATAELXSI,Tata Elxsi Limited,Technology,IT Services,Mid Cap,India
+CMP056,BSOFT,Birlasoft Limited,Technology,IT Services,Mid Cap,India
+CMP057,CYIENT,Cyient Limited,Technology,IT Services,Mid Cap,India
+CMP058,TATATECH,Tata Technologies Limited,Technology,IT Services,Mid Cap,India
+CMP059,NEWGEN,Newgen Software Technologies Limited,Technology,Software,Mid Cap,India
+CMP060,INTELLECT,Intellect Design Arena Limited,Technology,Software,Mid Cap,India
+CMP061,HAPPSTMNDS,Happiest Minds Technologies Limited,Technology,IT Services,Mid Cap,India
+CMP062,DATAMATICS,Datamatics Global Services Limited,Technology,IT Services,Small Cap,India
+CMP063,SUBEX,Subex Limited,Technology,Data & Analytics,Small Cap,India
+CMP064,RAMCOSYS,Ramco Systems Limited,Technology,Software,Small Cap,India
+CMP065,EMUDHRA,eMudhra Limited,Technology,Cybersecurity,Small Cap,India
+CMP066,NUCLEUSSOFT,Nucleus Software Exports Limited,Technology,Software,Small Cap,India
+CMP067,SAKSOFT,Saksoft Limited,Technology,IT Services,Small Cap,India
+CMP068,QUICKHEAL,Quick Heal Technologies Limited,Technology,Cybersecurity,Small Cap,India
+CMP069,SONATSOFTW,Sonata Software Limited,Technology,IT Services,Small Cap,India
+CMP070,MASTEK,Mastek Limited,Technology,IT Services,Small Cap,India
+CMP071,SGE,Sage Group plc,Technology,Software,Large Cap,UK
+CMP072,RELX,RELX PLC,Technology,Data & Analytics,Large Cap,UK
+CMP073,EXPN,Experian plc,Technology,Data & Analytics,Large Cap,UK
+CMP074,CCC,Computacenter plc,Technology,IT Services,Large Cap,UK
+CMP075,BYIT,Bytes Technology Group plc,Technology,IT Services,Mid Cap,UK
+CMP076,KNOS,Kainos Group plc,Technology,IT Services,Mid Cap,UK
+CMP077,FDM,FDM Group Holdings plc,Technology,IT Services,Mid Cap,UK
+CMP078,NCC,NCC Group plc,Technology,Cybersecurity,Small Cap,UK
+CMP079,DATA,GlobalData Plc,Technology,Data & Analytics,Small Cap,UK
+CMP080,DAVA,Endava plc,Technology,IT Services,Small Cap,UK
+CMP081,SAP,SAP SE,Technology,Software,Large Cap,Germany
+CMP082,NEM,Nemetschek SE,Technology,Software,Large Cap,Germany
+CMP083,BC8,Bechtle AG,Technology,IT Services,Large Cap,Germany
+CMP084,TMV,TeamViewer SE,Technology,Software,Mid Cap,Germany
+CMP085,COK,Cancom SE,Technology,IT Services,Mid Cap,Germany
+CMP086,DGR,Datagroup SE,Technology,IT Services,Mid Cap,Germany
+CMP087,EXL,Exasol AG,Technology,Data & Analytics,Small Cap,Germany
+CMP088,ADN1,Adesso SE,Technology,IT Services,Small Cap,Germany
+CMP089,9613,NTT DATA Group Corporation,Technology,IT Services,Large Cap,Japan
+CMP090,6702,Fujitsu Limited,Technology,IT Services,Large Cap,Japan
+CMP091,6701,NEC Corporation,Technology,IT Services,Large Cap,Japan
+CMP092,4704,Trend Micro Incorporated,Technology,Cybersecurity,Mid Cap,Japan
+CMP093,4684,Obic Co. Ltd.,Technology,Software,Mid Cap,Japan
+CMP094,9719,SCSK Corporation,Technology,IT Services,Mid Cap,Japan
+CMP095,2326,Digital Arts Inc.,Technology,Cybersecurity,Small Cap,Japan
+CMP096,3626,TIS Inc.,Technology,IT Services,Small Cap,Japan
+CMP097,SE,Sea Limited,Technology,IT Services,Large Cap,Singapore
+CMP098,GRAB,Grab Holdings Limited,Technology,IT Services,Mid Cap,Singapore
+CMP099,SILV,Silverlake Axis Limited,Technology,Software,Mid Cap,Singapore
+CMP100,CSE,CSE Global Limited,Technology,IT Services,Small Cap,Singapore
+CMP101,IFAST,iFAST Corporation Ltd,Technology,Software,Small Cap,Singapore
+CMP102,PRCC,Procurri Corporation Limited,Technology,IT Services,Small Cap,Singapore
+CMP103,SHOP,Shopify Inc.,Technology,Software,Large Cap,Canada
+CMP104,CSU,Constellation Software Inc.,Technology,Software,Large Cap,Canada
+CMP105,OTEX,OpenText Corporation,Technology,Software,Mid Cap,Canada
+CMP106,DCBO,Docebo Inc.,Technology,Software,Small Cap,Canada
+CMP107,LSPD,Lightspeed Commerce Inc.,Technology,Software,Small Cap,Canada
+CMP108,TEAM,Atlassian Corporation,Technology,Software,Large Cap,Australia
+CMP109,WTC,WiseTech Global Limited,Technology,Software,Mid Cap,Australia
+CMP110,MP1,Megaport Limited,Technology,Cloud Computing,Small Cap,Australia
