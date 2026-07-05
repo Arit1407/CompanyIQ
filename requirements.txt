@@ -5,3 +5,13 @@ openpyxl
 feedparser
 beautifulsoup4
 yfinance
+langchain 
+langchain-community 
+langchain-text-splitters 
+chromadb 
+sentence-transformers 
+pypdf 
+python-docx
+cryptography
+langchain-chroma 
+langchain-huggingface

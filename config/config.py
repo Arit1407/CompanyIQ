@@ -143,6 +143,15 @@ DASHBOARD_PATH = (
 )
 
 # ===================================================
+# AGENTS
+# ===================================================
+
+AGENTS_PATH = (
+    BASE_DIR
+    / "agents"
+)
+
+# ===================================================
 # LOGS
 # ===================================================
 
@@ -171,21 +180,33 @@ EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 DIRECTORIES = [
 
+    # API Responses
     API_RESPONSE_PATH,
     INCOME_STATEMENT_PATH,
     BALANCE_SHEET_PATH,
     CASH_FLOW_PATH,
     OVERVIEW_PATH,
 
+    # Reports
     REPORTS_PATH,
 
+    # Processed Data
     PROCESSED_DATA_PATH,
 
+    # RAG
     REPORT_CHUNKS_PATH,
     EMBEDDINGS_PATH,
 
+    # Vector Database
     CHROMA_DB_PATH,
 
+    # Dashboard
+    DASHBOARD_PATH,
+
+    # Agents
+    AGENTS_PATH,
+
+    # Logs
     LOG_PATH
 
 ]
