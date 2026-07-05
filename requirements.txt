@@ -2,3 +2,6 @@ pandas
 requests
 python-dotenv
 openpyxl
+feedparser
+beautifulsoup4
+yfinance

@@ -1,0 +1,31 @@
+company_id,ticker,company_name,sector,subsector,market_cap_category,country,yahoo_ticker
+CMP001,MSFT,Microsoft Corporation,Technology,Cloud Computing,Large Cap,USA,MSFT
+CMP002,ORCL,Oracle Corporation,Technology,Software,Large Cap,USA,ORCL
+CMP003,IBM,IBM Corporation,Technology,IT Services,Large Cap,USA,IBM
+CMP004,CRM,Salesforce Inc.,Technology,Software,Large Cap,USA,CRM
+CMP005,ADBE,Adobe Inc.,Technology,Software,Large Cap,USA,ADBE
+CMP006,NOW,ServiceNow Inc.,Technology,Software,Large Cap,USA,NOW
+CMP007,CSCO,Cisco Systems Inc.,Technology,Cybersecurity,Large Cap,USA,CSCO
+CMP009,PANW,Palo Alto Networks Inc.,Technology,Cybersecurity,Large Cap,USA,PANW
+CMP025,DDOG,Datadog Inc.,Technology,Cloud Computing,Mid Cap,USA,DDOG
+CMP026,HUBS,HubSpot Inc.,Technology,Software,Mid Cap,USA,HUBS
+CMP027,MDB,MongoDB Inc.,Technology,Data & Analytics,Mid Cap,USA,MDB
+CMP028,ZM,Zoom Video Communications Inc.,Technology,Software,Mid Cap,USA,ZM
+CMP031,AKAM,Akamai Technologies Inc.,Technology,Cloud Computing,Mid Cap,USA,AKAM
+CMP032,PATH,UiPath Inc.,Technology,Emerging Tech,Mid Cap,USA,PATH
+CMP033,PD,PagerDuty Inc.,Technology,Software,Small Cap,USA,PD
+CMP034,DOMO,Domo Inc.,Technology,Data & Analytics,Small Cap,USA,DOMO
+CMP035,AI,C3.ai Inc.,Technology,Emerging Tech,Small Cap,USA,AI
+CMP036,BRZE,Braze Inc.,Technology,Software,Small Cap,USA,BRZE
+CMP038,QLYS,Qualys Inc.,Technology,Cybersecurity,Small Cap,USA,QLYS
+CMP039,RPD,Rapid7 Inc.,Technology,Cybersecurity,Small Cap,USA,RPD
+CMP042,INFY,Infosys Limited,Technology,IT Services,Large Cap,India,INFY.NS
+CMP054,KPITTECH,KPIT Technologies Limited,Technology,IT Services,Mid Cap,India,KPITTECH.NS
+CMP055,TATAELXSI,Tata Elxsi Limited,Technology,IT Services,Mid Cap,India,TATAELXSI.NS
+CMP065,EMUDHRA,eMudhra Limited,Technology,Cybersecurity,Small Cap,India,EMUDHRA.NS
+CMP070,MASTEK,Mastek Limited,Technology,IT Services,Small Cap,India,MASTEK.NS
+CMP079,DATA,GlobalData Plc,Technology,Data & Analytics,Small Cap,UK,DATA.L
+CMP081,SAP,SAP SE,Technology,Software,Large Cap,Germany,SAP
+CMP098,GRAB,Grab Holdings Limited,Technology,IT Services,Mid Cap,Singapore,GRAB
+CMP100,CSE,CSE Global Limited,Technology,IT Services,Small Cap,Singapore,CSE.SI
+CMP105,OTEX,OpenText Corporation,Technology,Software,Mid Cap,Canada,OTEX
